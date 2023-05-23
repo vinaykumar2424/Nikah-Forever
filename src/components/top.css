@@ -1,0 +1,24 @@
+html{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+video{
+    height: 100vh;
+    width: 100vw;
+    object-fit:fill;
+    filter: contrast(40%);
+}
+.app-name{
+    position: absolute;
+    top: 40vh;
+    left: calc(25vw);
+    display: table;
+    justify-content: center;
+    font-size: 5vw;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Playfair Display', serif;
+    word-spacing: 10px;
+    color: #004E92;
+}

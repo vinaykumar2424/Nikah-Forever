@@ -1,0 +1,50 @@
+.videocall{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right,#000428 ,#004E92);
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+}
+input{
+    padding: 15px 10px;
+    border-radius: 5px;
+    outline: none;
+    text-decoration: none;
+}
+button{
+    padding: 15px 10px;
+    border-radius: 5px;
+    background-color: #004E92;
+    color: white;
+}
+.BYpXSnOHfrC2td4QRijO {
+    width: 100vw !important;
+    /* margin-left: 25vw; */
+    height: 100vh !important;
+}
+.pVo6XoSfywa4eLk9ef2S {
+    object-fit: contain;
+    display: block;
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 14px;
+    filter: blur(0px) !important;
+}
+.jF_DhwXwBFswm5nphXHX .VdaXgamc4uLcVqxdjRnv {
+    position: relative;
+    justify-content: center;
+    width: 66.13333vmin;
+    height: 66.13333vmin;
+    margin: 20px 16.93333vmin !important;
+    overflow: hidden;
+    background-color: #1c1f2e;
+    border-radius: 3.2vmin;
+}
+.LW7EjqPdWOz2byf1EuLg {
+    filter: blur(0px) !important;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: rotateY(180deg);
+}
